@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>unloadingv2_updatebutton</name>
+   <tag></tag>
+   <elementGuidId>c76391e7-a5cf-4871-a6a4-70405260586f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div[1]/div/section[2]/div[2]/div[2]/table/tbody/tr[2]/td[7]/a[2]/i</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div[1]/div/section[2]/div[2]/div[2]/table/tbody/tr[2]/td[7]/a[2]/i</value>
+   </webElementProperties>
+</WebElementEntity>

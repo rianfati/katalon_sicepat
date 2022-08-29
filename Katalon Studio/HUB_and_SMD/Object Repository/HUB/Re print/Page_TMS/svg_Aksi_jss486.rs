@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>svg_Aksi_jss486</name>
+   <tag></tag>
+   <elementGuidId>96509556-9735-48e8-9317-a23e27a3ec21</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>svg</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>jss486</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>focusable</name>
+      <type>Main</type>
+      <value>false</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>viewBox</name>
+      <type>Main</type>
+      <value>0 0 24 24</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>true</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>role</name>
+      <type>Main</type>
+      <value>presentation</value>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;root&quot;)/div[1]/div[@class=&quot;layout jss414 jss412&quot;]/div[@class=&quot;jss415 jss413&quot;]/main[@class=&quot;jss416&quot;]/div[@class=&quot;jss417&quot;]/div[1]/div[@class=&quot;jss446 jss450 jss447&quot;]/div[@class=&quot;app-datatable-container&quot;]/div[@class=&quot;p-datatable p-component p-datatable-responsive p-datatable-scrollable&quot;]/div[@class=&quot;p-datatable-scrollable-wrapper&quot;]/div[@class=&quot;p-datatable-scrollable-view&quot;]/div[@class=&quot;p-datatable-scrollable-body&quot;]/table[@class=&quot;p-datatable-scrollable-body-table app-datatable&quot;]/tbody[@class=&quot;p-datatable-tbody&quot;]/tr[@class=&quot;p-datatable-row&quot;]/td[@class=&quot;text-left&quot;]/div[@class=&quot;ScanOutHubTransList_setCenter__13idE&quot;]/button[@class=&quot;jss483 jss477 ScanOutHubTransList_sizeButtonAction__2onsP&quot;]/span[@class=&quot;jss482&quot;]/svg[@class=&quot;jss486&quot;]</value>
+   </webElementProperties>
+</WebElementEntity>

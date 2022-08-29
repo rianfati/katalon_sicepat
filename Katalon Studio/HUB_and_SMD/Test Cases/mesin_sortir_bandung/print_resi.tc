@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>print_resi</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>28ecfca5-a5bf-4dfc-b207-ad95bb25a7d5</testCaseGuid>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>794acd07-a59c-4857-b7da-234f5ea57fb2</id>
+      <masked>false</masked>
+      <name>resi</name>
+   </variable>
+</TestCaseEntity>

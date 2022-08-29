@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>eos_purchase_view_button</name>
+   <tag></tag>
+   <elementGuidId>28a65741-bc65-43b6-9ca8-c29ab0bf770f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>/html/body/div/div[1]/div[2]/div/div/div[4]/div/div/table/tbody/tr[1]/td[12]/a[2]/i</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>/html/body/div/div[1]/div[2]/div/div/div[4]/div/div/table/tbody/tr[1]/td[12]/a[2]/i</value>
+   </webElementProperties>
+</WebElementEntity>
